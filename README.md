@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Octavio benjamin</h1>
+<h1 align="center">Hola, Soy Octavio Benjamin</h1>
 <h3 align="center">Estudiante autodidacta de Programacion</h3>
 
 <h2>Lenguajes Conocidos</h2>

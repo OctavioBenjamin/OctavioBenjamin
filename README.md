@@ -1,7 +1,6 @@
 
-<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
-<h3 align="center">
+<h3>
 
 ```python
 AboutMe = {

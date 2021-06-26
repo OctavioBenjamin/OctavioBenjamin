@@ -1,7 +1,7 @@
 
-<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" justify = "center" alt="Computador iuriCode">
+<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
-<h3 justify = "center">
+<h3 align="center">
 
 ```python
 AboutMe = {

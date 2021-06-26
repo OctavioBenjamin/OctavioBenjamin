@@ -13,4 +13,4 @@
 
 - Mail: **benjamin@gmail.com**
 - Twitter: twitter.com/Benjxmin_ 
-- Linkedin: <p href="https://www.linkedin.com/in/octavio-benjamin-mendez-4b5633195/"> Octavio Benjamin Mendez </p>
+- [Linkedin](https://www.linkedin.com/in/octavio-benjamin-mendez-4b5633195/)

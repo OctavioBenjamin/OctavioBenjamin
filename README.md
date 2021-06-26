@@ -17,6 +17,8 @@
 - Photoshop
 - Office Software
 
-<h2 aling=center> Contactos </h2>
+<h2 aling="center"> Contactos </h2>
 
-<p aling=center> - Mail: **benjamin@gmail.com** -- [Twitter](twitter.com/Benjxmin_ ) -- [Linkedin](https://www.linkedin.com/in/octavio-benjamin-mendez-4b5633195/) </p>
+- Mail: **benjamin@gmail.com** 
+- [Twitter](twitter.com/Benjxmin_ )
+- [Linkedin](https://www.linkedin.com/in/octavio-benjamin-mendez-4b5633195/) </p>

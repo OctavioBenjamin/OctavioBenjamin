@@ -12,5 +12,5 @@
 <h2> Contactos </h2>
 
 - Mail: **benjamin@gmail.com**
-- Twitter: twitter.com/Benjxmin_ 
+- [Twitter](twitter.com/Benjxmin_ )
 - [Linkedin](https://www.linkedin.com/in/octavio-benjamin-mendez-4b5633195/)

@@ -2,10 +2,8 @@
 <img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-
+​
 class SoftwareEngineer:
 
     def __init__(self):
@@ -19,4 +17,4 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-
+​

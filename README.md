@@ -11,7 +11,7 @@ AboutMe = {
     'Age' : 18,
     'Country' : 'Argentina',
     'Email' : 'benjaminmen55@gmail.com',
-    'Twitter' : 'Benjxmin_',
+    'Twitter' : 'OctavioBenjaa',
     'Discord' : 'OctavioBenjamin#1234'
 } 
 

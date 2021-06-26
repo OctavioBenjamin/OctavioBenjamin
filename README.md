@@ -11,7 +11,8 @@ AboutMe = {
     'Age' : 18,
     'Country' : 'Argentina',
     'Email' : 'benjaminmen55@gmail.com',
-    'Twitter' : 'Benjxmin_'
+    'Twitter' : 'Benjxmin_',
+    'Discord' : 'OctavioBenjamin#1234'
 } 
 
 class student:
@@ -24,8 +25,9 @@ class student:
         print("Hi, Welcome to my profile")
 
 def GetContactInformation():
-    return AboutMe.email
-    return AboutMe.twitter
+    return AboutMe.Email
+    return AboutMe.Twitter
+    return AboutMe.Discord
     
 me = student()
 me.say_hi()

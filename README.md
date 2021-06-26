@@ -14,7 +14,7 @@ AboutMe = {
 
 class student:
     def __init__(self):
-        self.SoftwareSkill = ['Photoshop', 'Illustrator', 'VisualStudioCode', 'OfficeSoftware']
+        self.SoftwareSkill = ['Photoshop', 'Illustrator', 'VSCode']
         self.Languages = ['Python', 'C++', 'HTML & CSS'] # Know and in improvement
 
     def say_hi (self):
@@ -26,8 +26,4 @@ def GetContactInformation():
     
 me = student()
 me.say_hi()
-    
-    
-    
-    
-    ```
+```

@@ -4,17 +4,30 @@
 
 
 ```python
-class SoftwareEngineer:
+AboutMe = {
+    'Name' : 'Octavio Benjamin',
+    'Age' : 18,
+    'Country' : 'Argentina',
+    'email' : 'benjaminmen55@gmail.com',
+    'twitter' : 'Benjxmin_'
+} 
 
+class student:
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.SoftwareSkill = ['Photoshop', 'Illustrator', 'VisualStudioCode', 'OfficeSoftware']
+        self.Languages = ['Python', 'C++', 'HTML & CSS'] # Know and in improvement
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def say_hi (self):
+        print("Hi, Welcome to my profile")
 
-
-me = SoftwareEngineer()
+def GetContactInformation():
+    return AboutMe.email
+    return AboutMe.twitter
+    
+me = student()
 me.say_hi()
-```
+    
+    
+    
+    
+    ```

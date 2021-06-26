@@ -1,4 +1,4 @@
-<h1 align="center" style="text-shadow: 1px 1px 2px;">Hi, this is my profile :D</h1>
+<h2 align="left" style="text-shadow: 1px 1px 2px;">Hi, this is my profile :D</h2>
 
 <h3>
 

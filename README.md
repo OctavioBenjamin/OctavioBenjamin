@@ -2,6 +2,7 @@
 <h3 align="center">Estudiante autodidacta de Programacion</h3>
 
 <h2>Lenguajes Conocidos</h2>
+
 - Python
 - C++
 - HTML y CSS

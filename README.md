@@ -15,7 +15,8 @@ AboutMe = {
 class student:
     def __init__(self):
         self.SoftwareSkill = ['Photoshop', 'Illustrator', 'VSCode']
-        self.Languages = ['Python', 'C++', 'HTML & CSS'] # Know and in improvement
+        self.Languages = ['Python', 'C++', 'HTML & CSS'] 
+                # Know and in improvement
 
     def say_hi (self):
         print("Hi, Welcome to my profile")

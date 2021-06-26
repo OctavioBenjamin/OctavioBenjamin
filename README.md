@@ -8,8 +8,8 @@ AboutMe = {
     'Name' : 'Octavio Benjamin',
     'Age' : 18,
     'Country' : 'Argentina',
-    'email' : 'benjaminmen55@gmail.com',
-    'twitter' : 'Benjxmin_'
+    'Email' : 'benjaminmen55@gmail.com',
+    'Twitter' : 'Benjxmin_'
 } 
 
 class student:

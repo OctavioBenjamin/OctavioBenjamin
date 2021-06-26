@@ -16,6 +16,7 @@
 - Illustrator
 - Photoshop
 - Office Software
+- ACAD
 
 <h2 aling="center"> Contactos </h2>
 

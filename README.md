@@ -1,7 +1,7 @@
 
-<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador iuriCode">
+<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" aling = "center" alt="Computador iuriCode">
 
-<h3>
+<h3 aling = "center">
 
 ```python
 AboutMe = {

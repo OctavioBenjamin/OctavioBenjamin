@@ -1,7 +1,7 @@
 
 <img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+<h3>
 
 ```python
 AboutMe = {
@@ -28,3 +28,4 @@ def GetContactInformation():
 me = student()
 me.say_hi()
 ```
+</h3>

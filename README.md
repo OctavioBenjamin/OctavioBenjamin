@@ -7,29 +7,31 @@ print("HELLO GITHUB!")
 
 AboutMe = {
     'Name' : 'Octavio Benjamin',
-    'Age' : 18,
+    'Age' : 19,
     'Country' : 'Argentina',
     'Email' : 'benjaminmen55@gmail.com',
-    'Twitter' : 'octabenjamin',
-    'Discord' : 'OctavioBenjamin #8955',
+    'Discord' : 'Dr. Tavo #8955',
     'currently' : 'Student of information systems engineering'
 } 
 
 class student:
-    def __init__(self):
-        self.SoftwareSkill = ['Photoshop', 'Illustrator', 'VSCode']
-        self.ProgrammingLanguages = ['Python', 'C++', 'HTML & CSS'] 
-                # Know and in improvement
+    def __init__(self, SoftwareSkill, ProgrammingLanguages):
+        self.SotwareSkill = SotwareSkill
+        self.ProgrammingLanguages = ProgrammingLanguages 
+                
 
     def say_hi (self):
         print("Hi, Welcome to my profile")
 
 def GetContactInformation():
     print (AboutMe["Email"])
-    print (AboutMe["Twitter"])
     print (AboutMe["Discord"])
-    
-me = student()
+
+SoftwareSkill = ['Photoshop', 'Illustrator', 'VSCode']
+ProgrammingLanguages = ['Python']
+# Know and in improvement
+me = student(SoftwareSkill, ProgrammingLanguages)
+
 me.say_hi()
 GetContactInformation()
 ```

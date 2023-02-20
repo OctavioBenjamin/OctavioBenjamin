@@ -9,7 +9,7 @@ AboutMe = {
     'Name' : 'Octavio Benjamin',
     'Age' : 19,
     'Country' : 'Argentina',
-    'Email' : 'benjaminmen55@gmail.com',
+    'Email' : '', #No email for the moment
     'Discord' : 'Dr. Tavo #8955',
     'currently' : 'Student of information systems engineering'
 } 
@@ -28,7 +28,7 @@ def GetContactInformation():
     print (AboutMe["Discord"])
 
 SoftwareSkill = ['Photoshop', 'Illustrator', 'VSCode']
-ProgrammingLanguages = ['Python']
+ProgrammingLanguages = ['Python', 'HTML', 'CSS', 'JavaScript', 'React']
 # Know and in improvement
 me = student(SoftwareSkill, ProgrammingLanguages)
 

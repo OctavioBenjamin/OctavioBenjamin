@@ -7,7 +7,6 @@ print("HELLO GITHUB!")
 
 AboutMe = {
     'Name' : 'Octavio Benjamin',
-    'Age' : 19,
     'Country' : 'Argentina',
     'Email' : 'octabenjamin.dev@gmail.com',
     'currently' : 'Student of information systems engineering'

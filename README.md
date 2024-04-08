@@ -1,37 +1,12 @@
+<h1>👋Hola! Soy Octavio </h1>
 
+📖Actualmente estudio Ingenieria en Sistemas de Información.
+💡Me gustan los desafios y aprovecho cada oportunidad para aprender algo nuevo.
+💪Estoy desarrollando mis primeros proyectos como freelancer.
 
-<h3>
-
-```python
-print("HELLO GITHUB!")
-
-AboutMe = {
-    'Name' : 'Octavio Benjamin',
-    'Country' : 'Argentina',
-    'Email' : 'octabenjamin.dev@gmail.com',
-    'currently' : 'Student of information systems engineering'
-} 
-    
-SoftwareSkill = ['Photoshop', 'Illustrator', 'VSCode', 'Figma']
-TechnicalSkills = ['Python', 'HTML5', 'CSS3', 'JavaScript', 'React', 'Boostrap5']
-
-class Student:
-    def __init__(self, SoftwareSkill, ProgrammingLanguages):
-        self.SotwareSkill = SotwareSkill
-        self.ProgrammingLanguages = ProgrammingLanguages 
-                
-    def say_hi (self):
-        print("Hi, Welcome to my profile")
-
-def GetContactInformation():
-    print (AboutMe["Email"])
-    print (AboutMe["Discord"])
-
-
-# Know and in improvement
-me = student(SoftwareSkill, ProgrammingLanguages)
-
-me.say_hi()
-GetContactInformation()
-```
-</h3>
+🛠️Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,figma,git,html,js,py&perline=14" />
+  </a>
+</p>

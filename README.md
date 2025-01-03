@@ -12,8 +12,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,astro,py,bash,figma,git&perline=14" />
   </a>
 </p>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>

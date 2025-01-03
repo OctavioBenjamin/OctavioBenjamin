@@ -9,6 +9,6 @@
 <h2>🛠️Tecnologias que conozco</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,astro,py,bash,figma,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,astro,java,springboot,mysql,py,bash,figma,git&perline=14" />
   </a>
 </p>
